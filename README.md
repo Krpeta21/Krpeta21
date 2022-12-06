@@ -1,3 +1,4 @@
 # Hi! I'm Irving!👋
-I'm a jr software developer from México 💻 https://i.pinimg.com/originals/c9/9e/35/c99e353f761d318322c853c03ebcf21b.gif
+![image](https://user-images.githubusercontent.com/41974385/205823265-6845f500-561d-4778-8c7f-b02deb90b07d.png)
+I'm a jr software developer from México 💻
 #Tec
