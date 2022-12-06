@@ -4,7 +4,7 @@
 I'm a jr software developer from México. 💻
 Currently looking for a job.
 
-# SKILLS:
+# Skills:
 FRONTEND
 - HTML
 - CSS
