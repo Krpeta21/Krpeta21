@@ -12,6 +12,5 @@ I'm excited about the opportunity to join a dynamic company where I can continue
 - SQL
 ### FRAMEWORKS
 - EXPRESS
-- NODE JS
 - REACT NATIVE
 - ANGULAR
