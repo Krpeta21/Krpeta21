@@ -13,3 +13,4 @@ I'm excited about the opportunity to join a dynamic company where I can continue
 - EXPRESS
 - REACT NATIVE
 - ANGULAR
+- ASTRO
