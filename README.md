@@ -10,7 +10,7 @@ I'm excited about the opportunity to join a dynamic company where I can continue
 - JAVA
 - SQL
 ### FRAMEWORKS
+- REACT
 - EXPRESS
-- REACT NATIVE
 - ANGULAR
 - ASTRO
