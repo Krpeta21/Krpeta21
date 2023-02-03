@@ -11,6 +11,6 @@ I'm excited about the opportunity to join a dynamic company where I can grow as 
 - SQL
 ### FRAMEWORKS
 - REACT
+- ASTRO
 - EXPRESS
 - ANGULAR
-- ASTRO
