@@ -8,6 +8,7 @@ Recently graduated at informatics engineering.
 - TYPESCRIPT
 - JAVA
 - SQL
+
 ### FRAMEWORKS
 - REACT
 - ASTRO
