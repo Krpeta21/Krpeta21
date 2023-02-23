@@ -14,4 +14,3 @@ Recently graduated at informatics engineering.
 - ASTRO
 - EXPRESS
 - ANGULAR
-
