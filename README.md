@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [https://krpeta21.netlify.com/](https://krpeta21.netlify.com/)
 
-- 📫 How to reach me **irving3317@gmail.com**
-
 - 📄 Know about my experiences [https://drive.google.com/file/d/1maGX392LOYT_wrPLsIiKBkLAMxNWOttz/view?usp=sharing](https://drive.google.com/file/d/1maGX392LOYT_wrPLsIiKBkLAMxNWOttz/view?usp=sharing)
 
 - ⚡ Random fact **I reach Master on league of legends.**
