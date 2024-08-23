@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Irving Lopez</h1>
 <h3 align="center">A developer from Mexico</h3>
 
-- 🌱 I’m currently learning **C# .Net**
+- 🌱 **Java** Backend Developer
 
 - 👨‍💻 All of my projects are available at [https://krpeta21.netlify.com/](https://krpeta21.netlify.com/)
 
