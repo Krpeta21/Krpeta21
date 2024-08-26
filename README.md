@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1maGX392LOYT_wrPLsIiKBkLAMxNWOttz/view?usp=sharing](https://drive.google.com/file/d/1maGX392LOYT_wrPLsIiKBkLAMxNWOttz/view?usp=sharing)
 
-- ⚡ Random fact **I reach Master on league of legends ** And i was 1 point away from **immortal in valorant**. 😢
+- ⚡ Random fact **I reach Master on league of legends** And i was 1 point away from **immortal in valorant**. 😢
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
