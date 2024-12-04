@@ -3,7 +3,7 @@
 
 - 🌱 **Java** Backend Developer
 
-- 👨‍💻 All of my projects are available at [https://krpeta21.netlify.com/](https://krpeta21.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://krpeta21.netlify.app/](https://krpeta21.netlify.app/)
 
 - 📄 Know about my experiences [CV](https://drive.google.com/file/d/1hswhy9owGZjLSoqTLaMFZGFNaRWlWo9j/view?usp=drive_link)
 
