@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://krpeta21.netlify.app/](https://krpeta21.netlify.app/)
 
-- 📄 Know about my experiences [CV](https://docs.google.com/document/d/1fnX4WKgc3EAYVgcs39BuGrhTWlphwzfB7zZwZjy8yZ8/edit?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1U4XyFNSXoCgwvSqIyXEoVD7W5Z0omP5J/view?usp=sharing)
 
 - ⚡ Random fact **I reach Master on league of legends** And i was 1 point away from **immortal in valorant**. 😢
 
